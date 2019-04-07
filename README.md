@@ -1,24 +1,11 @@
-# README
+## Aplicação de exemplo - Rails com ReactJS
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Requirements
 
-Things you may want to cover:
+1. Ruby 2.5.1 ou superior
+2. Rails 5.2.1 ou superior
+3. Webpacker 3.5.5 ou superior
 
-* Ruby version
 
-* System dependencies
+Tutorial completo passo a passo em:
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
