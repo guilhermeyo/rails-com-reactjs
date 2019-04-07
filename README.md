@@ -1,6 +1,6 @@
 ## Aplicação de exemplo - Rails com ReactJS
 
-## Requirements
+### Requirements
 
 1. Ruby 2.5.1 ou superior
 2. Rails 5.2.1 ou superior
